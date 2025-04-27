@@ -40,7 +40,7 @@ export default function DevelopmentProcessSection() {
               Showcase Demo
             </h3>
             <p className="text-gray-700 text-center leading-relaxed">
-              We present a demo that visualizes the project’s core structure and design to get your feedback before moving forward.
+              We present a demo that visualizes the project&apos;s core structure and design to get your feedback before moving forward.
             </p>
           </div>
 
@@ -66,7 +66,7 @@ export default function DevelopmentProcessSection() {
               Go Live and Maintenance
             </h3>
             <p className="text-gray-700 text-center leading-relaxed">
-              Once everything is finalized, we deploy your site, ensure it's running smoothly, and offer ongoing support.
+              Once everything is finalized, we deploy your site, ensure it&apos;s running smoothly, and offer ongoing support.
             </p>
           </div>
         </div>

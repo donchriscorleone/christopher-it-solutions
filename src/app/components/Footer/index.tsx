@@ -3,7 +3,7 @@ import { links } from "@/app/utility/links";
 export default function Footer() {
   return (
     <footer className="bg-gray-800 text-white py-10">
-      <div className="container mx-auto px-6 flex flex-col items-center gap-5 md:flex-row">
+      <div className="container mx-auto px-6 flex flex-col items-center gap-5 md:justify-between md:flex-row">
         <div className="flex justify-between items-center">
           {/* Footer Links */}
           <ul className="flex space-x-6">

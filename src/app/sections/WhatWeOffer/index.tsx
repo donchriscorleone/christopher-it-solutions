@@ -51,7 +51,7 @@ export default function WhatWeOfferSection() {
               Optimized Page Speed
             </h3>
             <p className="text-gray-700 leading-relaxed">
-              We enhance your website’s speed through optimized code and assets, improving user experience and search rankings.
+              We enhance your website&apos;s speed through optimized code and assets, improving user experience and search rankings.
             </p>
           </div>
 
