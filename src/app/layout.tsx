@@ -11,6 +11,11 @@ const interSans = Inter({
 export const metadata: Metadata = {
   title: "Christopher I.T Solution",
   description: "Web design and development agency",
+  icons: {
+    icon: '/favicon.ico',          // Main favicon
+    // apple: '/apple-touch-icon.png', // Apple touch icon
+    // shortcut: '/favicon-32x32.png', // 32x32 favicon for shortcuts
+  },
 };
 
 export default function RootLayout({
