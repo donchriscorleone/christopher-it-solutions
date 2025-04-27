@@ -1,3 +1,4 @@
+import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Contact from "./sections/Contact";
 import DevelopmentProcessSection from "./sections/DevelopmentProcess";
@@ -16,6 +17,7 @@ export default function Home() {
         <PricingSection />
         <Contact/>
       </main>
+      <Footer />
     </>
   );
 }

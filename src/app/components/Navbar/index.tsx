@@ -1,12 +1,7 @@
+import { links } from "@/app/utility/links";
 import NavMenuButton from "../MenuButton";
 
 export default function Navbar() {
-    const links = [
-        // { label: 'About', href: '#about'},
-        { label: 'Services', href: '#services'},
-        { label: 'Pricing', href: '#pricing'},
-        { label: 'Contact', href: '#contact'}
-    ]
     return (
         <>
             <nav className="flex items-center justify-between p-5 container mx-auto">
